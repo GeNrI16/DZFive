@@ -31,6 +31,8 @@ namespace DZFive
             Console.WriteLine("четных чисел в диапазоне " + c);
             Console.WriteLine("нечетных  чисел в диапазоне " + d);
 
+
+
         }
     }
 }
